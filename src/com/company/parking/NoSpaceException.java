@@ -1,4 +1,4 @@
 package com.company.parking;
 
-public class NoSpaceException {
+public class NoSpaceException{
 }
